@@ -1,0 +1,166 @@
+
+	body {
+		background-color: #f2f2f2;
+		font-family: Arial, sans-serif;
+		margin: 0;
+		padding: 0;
+	}
+	header {
+		background-color: #501537;
+		color: #fff;
+		padding: 50px;
+        text-align: center;
+
+	}
+	h1 {
+		margin: 0;
+	}
+	nav ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	nav li {
+		display: inline-block;
+		margin: 0 10px;
+	}
+	nav a {
+		color: #fff;
+		text-decoration: none;
+	}
+	footer {
+		background-color: #3c1b43;
+		padding: 10px;
+		text-align: center;
+        
+	}
+    .main
+    {
+        text-align: center;
+        font-size: xx-large;
+    }
+    .hlavalink
+    {
+        padding: 30px;
+        border-radius: 5cm;
+        background-color: #3c1b43;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    #petatxt
+    {
+        color: #f2f2f2;
+    }
+    #hlavatxt
+    {
+        padding-bottom: 1cm;
+    }
+    #specialbutt
+    {
+        padding-left: 1.25cm;
+        padding-right: 1.25cm;
+    }
+    #specialbutt1
+    {
+        padding-left: 0.72cm;
+        padding-right: 0.72cm; 
+    }
+    #specialbutt2
+    {
+        padding-left: 1.2cm;
+        padding-right: 1.2cm; 
+    }
+    .obrazkyhlava
+    {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+    .rada
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .rada img 
+    {
+        margin: 10px; /* prispôsobte podľa potreby */
+    }
+    #fotkavinica
+    {
+        height: 500px;
+        border-radius: 2.5cm;
+    }
+    #mapa
+    {
+        width: 400px;
+        border-radius: 2.5cm;
+    }
+    .kontajnerlokalita
+    {
+        background-color: #633d6b;
+        color: #f2f2f2;
+        padding: 0.5cm;
+        font-size: large;
+    }
+    .ZAMESTANIEKONT
+    {
+        background-color: #633d6b;
+        color: #f2f2f2;
+        padding: 0.5cm;
+        font-size: large;
+    }
+   .zamestanie1
+   {
+        font-size: medium;
+        margin-bottom: 1cm;
+   }
+   li
+   {
+    margin-left: 0cm;
+   }
+   #linknaform
+   {
+    /*padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;*/
+    padding: 20px;
+    border-radius: 5cm;
+    background-color: #633d6b;
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 30px;
+    font-size: medium;
+    
+   }
+   .kontajnerprodukty
+   {
+        background-color: #633d6b;
+        color: #f2f2f2;
+        padding: 0.5cm;
+        font-size: large;
+   }
+   .medzera
+   {
+    padding: 0.7cm;
+   }
+   a:hover {
+    padding: 30px;
+    background-color: #3f0f2b;
+    transition: padding 0.2s ease-in-out;
+  }
+  #linknaform:hover
+  {
+    padding: 30px;
+    background-color: #501537;
+  }
+  .vinatxt
+  {
+    font-size: medium;
+  }
+  #textobjednavka
+  {
+    font-size: larger;
+  }
+ 
