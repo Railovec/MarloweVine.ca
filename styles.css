@@ -167,3 +167,15 @@
   {
     scroll-behavior: smooth;
   }
+  @media (max-width: 767px) {
+    #fotkavinica {
+      display: none;
+    }
+  }
+  
+  /* Zobrazenie obrázka na počítači */
+  @media (min-width: 768px) {
+    #fotkavinica {
+      display: block;
+    }
+  }
